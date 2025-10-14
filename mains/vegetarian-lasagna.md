@@ -18,6 +18,7 @@
 - **Salt and pepper** to taste
 - **1 teaspoon** dried oregano or Italian seasoning
 - **Fresh basil** for garnish (optional)
+- **Piece of beef** for flavor
 
 
 ## Instructions
@@ -31,6 +32,7 @@
      just tender and the spinach has wilted. Season with salt, pepper, and
      dried oregano.
    - Remove from heat and set aside.
+   - Add beef
 
 3. **Mix Cheeses:**
    - In a bowl, mix together the ricotta cheese, egg, half of the grated Parmesan cheese, and a pinch of salt and pepper. Set aside.
