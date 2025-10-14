@@ -10,9 +10,9 @@ towards the template repository.
 
 ## Categories
 
-- [salads](salads)
-- [soups](soups)
-- [pasta](pasta)
-- [mains](mains)
-- [sides](sides)
-- [desserts](desserts)
+- 🥗 [salads](salads)
+- 🍲 [soups](soups)
+- 🍝 [pasta](pasta)
+- 🍛 [mains](mains)
+- 🍟 [sides](sides)
+- 🍨 [desserts](desserts)
