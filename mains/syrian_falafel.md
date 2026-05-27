@@ -34,7 +34,9 @@ Step 3: Fry the falafel and serve
 > Tip: Carefully lower the shaped falafels into the hot oil in batches to avoid overcrowding the pan. Overcrowding can cause the oil temperature to drop, resulting in less crispy falafel.
     Gently move them around in the oil to ensure they cook evenly on all sides. They should be fully cooked, golden brown, and crispy within 4 minutes. Use a slotted spoon to remove them from the oil and place them on kitchen paper to drain any excess oil.
     Serve the falafel loose or in Lebanese flatbread with lettuce, tomato and cucumber. Enjoy!
->
-> Sources: https://seemagetsbaked.com/recipe/falafel-syria/ & https://en.smaack.nl/recepten/syrische-falafel
+
+
+
+Sources: https://seemagetsbaked.com/recipe/falafel-syria/ & https://en.smaack.nl/recepten/syrische-falafel
 
     
