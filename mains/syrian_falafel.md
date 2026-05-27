@@ -1,6 +1,6 @@
-**    The superior falafel**
+# The superior falafel
     
-    Ingredients:
+## Ingredients:
     - 500g Dried chickpeas, soaked for at least 14 hours
     - 4 garlic cloves
     - ½ onion, roughly chopped or quartered
@@ -12,7 +12,7 @@
     - 100 - 130ml room temperature water
     - oil for deep-frying
 
-**Preparation**
+## Instructions
 Soak the chickpeas in water for at least one night. _Quality requires effort and patience_
 
 Step 1: Prepare the chickpea mixture
